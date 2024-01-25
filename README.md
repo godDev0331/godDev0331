@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React,NodeJS,Redux,NextJS,Python,Django**
 
-- 👨‍💻 All of my projects are available at <a href="https://3003abhishek.github.io/" target="_blank">Portfolio</a>
-
 - 📫 How to reach me **god880331@skiff.com**
 
 - 📄 Know about my experiences
