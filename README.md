@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A passionate MERN stack developer</h3>
+<h3 align="center">A passionate Full stack developer</h3>
 </br>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3003abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="3003abhishek" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React,NodeJS,Redux**
+- 🌱 I’m currently learning **React,NodeJS,Redux,NextJS,Python,Django**
 
 - 👨‍💻 All of my projects are available at <a href="https://3003abhishek.github.io/" target="_blank">Portfolio</a>
 
-- 📫 How to reach me **god880331@gmail.com**
+- 📫 How to reach me **god880331@skiff.com**
 
 - 📄 Know about my experiences
 <a href="https://drive.google.com/file/d/1VTMMOMyo0oJbkQMJwPYYc5SQXUIbxS7S/view?usp=sharing" target="
@@ -17,8 +17,6 @@ _blank">Resume</a>
 </br>
 <br>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](<[https://www.linkedin.com/in/kashif-jamal-290814242/](https://www.linkedin.com/in/abhishek-jha-430055231/)>)
 
 </br>
 <h3 align="left">Languages and Tools: </h3>
