@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3003abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="3003abhishek" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React,NodeJS,Redux,NextJS,VueJS,Python,Django,Flutter**
+- 🌱 I’m currently learning **React, Electron,NodeJS,Redux,NextJS,VueJS,Python,Django,Flutter**
 
 - 📫 How to reach me **god880331@skiff.com**
 
